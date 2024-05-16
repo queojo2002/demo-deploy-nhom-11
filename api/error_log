@@ -1,0 +1,60 @@
+[01-Nov-2023 00:34:03 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/jrpfrdmk/kkts.vanduc.top/api/load_data_baoloi.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/jrpfrdmk/kkts.vanduc.top/api/load_data_baoloi.php on line 26
+[01-Nov-2023 00:34:03 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/jrpfrdmk/kkts.vanduc.top/api/load_data_baoloi.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/jrpfrdmk/kkts.vanduc.top/api/load_data_baoloi.php on line 26
+[01-Nov-2023 00:34:06 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/jrpfrdmk/kkts.vanduc.top/api/load_data_baoloi.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/jrpfrdmk/kkts.vanduc.top/api/load_data_baoloi.php on line 26
+[01-Nov-2023 00:34:06 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/jrpfrdmk/kkts.vanduc.top/api/load_data_baoloi.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/jrpfrdmk/kkts.vanduc.top/api/load_data_baoloi.php on line 26
+[01-Nov-2023 00:34:13 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/jrpfrdmk/kkts.vanduc.top/api/load_data_baoloi.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/jrpfrdmk/kkts.vanduc.top/api/load_data_baoloi.php on line 26
+[01-Nov-2023 00:35:29 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/jrpfrdmk/kkts.vanduc.top/api/load_data_baoloi.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/jrpfrdmk/kkts.vanduc.top/api/load_data_baoloi.php on line 26
+[01-Nov-2023 00:35:29 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/jrpfrdmk/kkts.vanduc.top/api/load_data_baoloi.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/jrpfrdmk/kkts.vanduc.top/api/load_data_baoloi.php on line 26
+[02-Nov-2023 07:25:19 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/jrpfrdmk/kkts.vanduc.top/api/load_data_baoloi.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/jrpfrdmk/kkts.vanduc.top/api/load_data_baoloi.php on line 26
+[02-Nov-2023 07:26:01 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/jrpfrdmk/kkts.vanduc.top/api/load_data_baoloi.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/jrpfrdmk/kkts.vanduc.top/api/load_data_baoloi.php on line 26
+[02-Nov-2023 07:26:15 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/jrpfrdmk/kkts.vanduc.top/api/load_data_baoloi.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/jrpfrdmk/kkts.vanduc.top/api/load_data_baoloi.php on line 26
+[02-Nov-2023 07:26:26 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/jrpfrdmk/kkts.vanduc.top/api/load_data_baoloi.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/jrpfrdmk/kkts.vanduc.top/api/load_data_baoloi.php on line 26
+[02-Nov-2023 07:26:26 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/jrpfrdmk/kkts.vanduc.top/api/load_data_baoloi.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/jrpfrdmk/kkts.vanduc.top/api/load_data_baoloi.php on line 26
+[02-Nov-2023 07:26:34 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/jrpfrdmk/kkts.vanduc.top/api/load_data_baoloi.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/jrpfrdmk/kkts.vanduc.top/api/load_data_baoloi.php on line 26
+[02-Nov-2023 07:27:27 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/jrpfrdmk/kkts.vanduc.top/api/load_data_baoloi.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/jrpfrdmk/kkts.vanduc.top/api/load_data_baoloi.php on line 26
+[02-Nov-2023 07:27:27 Asia/Ho_Chi_Minh] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/jrpfrdmk/kkts.vanduc.top/api/load_data_baoloi.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/jrpfrdmk/kkts.vanduc.top/api/load_data_baoloi.php on line 26
