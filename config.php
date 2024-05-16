@@ -4,7 +4,7 @@ date_default_timezone_set('Asia/Ho_Chi_Minh');
 require_once 'vendor/autoload.php';
 
 $time = date('Y-m-d H:i:s');
-$conn       = mysqli_connect('', '', '', '') or die ('Connect DB Failed');
+$conn       = mysqli_connect('icopoghru9oezxh8.cbetxkdyhwsb.us-east-1.rds.amazonaws.com:3306', 'mbp72a7qjw32txe2', 'xd1t3olxcachv79i', 'qe16dhewguk6hd52') or die ('Connect DB Failed');
 mysqli_query($conn,"SET NAMES utf8");
 
 
