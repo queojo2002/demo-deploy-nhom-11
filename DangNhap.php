@@ -11,7 +11,7 @@ if(isset($_SESSION['TenDangNhap'])){
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width,initial-scale=1.0">
 
-    <title>ĐĂNG NHẬP THAY ĐỔI</title>
+    <title>ĐĂNG NHẬP</title>
 
     <meta name="description" content="KIỂM KÊ TÀI SẢN - TDMU">
     <meta name="author" content="pixelcave">
